@@ -1,8 +1,7 @@
-# web-dev-starter
+# web-dev-letter
+This is practice to test formatting skills on this letter.
+To run, use the live server. 
 
-This is a starter project for web development with no frameworks and minimal
-dependencies. It is intended to be a starting point for web development projects
-that are written in plain HTML, CSS, and JavaScript.
 
 ## Getting Started
 

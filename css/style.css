@@ -3,13 +3,21 @@ body {
   margin: 0 auto;
   background-color: antiquewhite;
 }
-div {
-  text-align: right;
+
+.address-container {
+  display: flex;
+  flex-direction: column;
 }
+
 .sender-column {
   text-align: right;
   float: right;
   margin-bottom: 20px;
+}
+
+.recipient-column {
+  text-align: left;
+  align-self: flex-start; 
 }
 
 h1 {
